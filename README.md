@@ -1,20 +1,22 @@
 # Wharton-Online-Business-Analytics-Capstone-Project
 ## Developing a Strategy for GoYaFace, Inc. to Counter the Impact of Adblockers
-**Project Description:** In the capstone project for the Business Analytics Specialization by Wharton Online, I developed a comprehensive strategy for a fictional digital search engine and content provider, GoYaFace, Inc. (GYF). The focus of this project was to address the challenges posed by the increasing popularity and use of adblocking software, which significantly impacts GYF’s revenue generated from advertisements.
+**Project Description:** 
+
+In the capstone project for the Business Analytics Specialization by Wharton Online, I developed a comprehensive strategy for a fictional digital search engine and content provider, GoYaFace, Inc. (GYF). The focus of this project was to address the challenges posed by the increasing popularity and use of adblocking software, which significantly impacts GYF’s revenue generated from advertisements.
 
 **Problem Statement:** 
 
 The project commenced with an in-depth analysis of the implications of adblockers for GYF’s ad-buying customers, end users, operations, and internal organization. Key issues identified included reduced ad visibility, decreased ROI for advertisers, low click-through rates, and eroded trust between GYF and its advertisers. Additionally, adblockers negatively affect user experience, content quality, and GYF’s financial health.
 
-Research Methods and Tools:
+**Research Methods and Tools:**
 
 To develop a robust strategy, I employed descriptive and causal research methods. Tools utilized included mobile surveys, A/B testing, price testing, and advanced data analytics to understand user preferences, evaluate new strategies, and monitor ad performance.
 
-Strategy Development:
+**Strategy Development:**
 
-The proposed strategy encompassed several key initiatives:
+* **The proposed strategy encompassed several key initiatives:**
 
-User-Friendly Ad Formats: Leveraged insights from mobile surveys to create less intrusive ad formats, enhancing user engagement and reducing adblocker usage.
+* **User-Friendly Ad Formats:** Leveraged insights from mobile surveys to create less intrusive ad formats, enhancing user engagement and reducing adblocker usage.
 Anti-Adblocker Technology: Implemented technologies to detect and counteract adblockers, increasing ad visibility and performance metrics.
 Proprietary Web Browser: Developed a web browser to control ad delivery and combat ad-blocking software, allowing user-based ad preference customization.
 Enhanced User Experience: Continuously improved user experience using data from social media analytics and user feedback.
